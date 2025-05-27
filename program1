@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+   int a,b;
+   scanf("%d %d",&a &b)
+   a=a/2-b/2;
+   if
+   {
+       (a=b/2)
+       printf("%d",&a);
+   }
+   else{
+       printf("%d",b/2);
+   }
+
+    return 0;
+}
